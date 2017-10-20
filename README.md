@@ -10,7 +10,7 @@ Download the `angular-currency-code.js` file or download it via [bower](http://b
 ```json
 {
   "dependencies": {
-    "angular-currency-code": "git@github.com:angular-locale/angular-currency-code.git"
+    "angular-currency-code": "git@github.com:OceanLabs/angular-currency-code.git"
   }
 }
 ```
